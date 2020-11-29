@@ -1,0 +1,6 @@
+spring:
+  aop:
+    auto : false
+    proxy-target-class : true
+server:
+  port : 8881

@@ -1,0 +1,4 @@
+register :
+  center :
+    host: regcenter
+    port : 8701
